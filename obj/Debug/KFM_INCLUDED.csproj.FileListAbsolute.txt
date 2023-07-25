@@ -1,0 +1,22 @@
+C:\Users\s.zhaparov\Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\bin\Debug\KFM_INCLUDED.exe
+C:\Users\s.zhaparov\Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\bin\Debug\KFM_INCLUDED.pdb
+C:\Users\s.zhaparov\Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\bin\Debug\NLog.dll
+C:\Users\s.zhaparov\Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\s.zhaparov\Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\bin\Debug\NLog.xml
+C:\Users\s.zhaparov\Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\obj\Debug\KFM_INCLUDED.csprojAssemblyReference.cache
+C:\Users\s.zhaparov\Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\obj\Debug\KFM_INCLUDED.csproj.CoreCompileInputs.cache
+C:\Users\s.zhaparov\Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\obj\Debug\KFM_INCLUDED.csproj.CopyComplete
+C:\Users\s.zhaparov\Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\obj\Debug\KFM_INCLUDED.exe
+C:\Users\s.zhaparov\Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\obj\Debug\KFM_INCLUDED.pdb
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\bin\Debug\KFM_INCLUDED.exe
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\bin\Debug\KFM_INCLUDED.pdb
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\bin\Debug\NLog.dll
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\bin\Debug\NLog.xml
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\obj\Debug\KFM_INCLUDED.csproj.AssemblyReference.cache
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\obj\Debug\KFM_INCLUDED.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\obj\Debug\KFM_INCLUDED.csproj.CoreCompileInputs.cache
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\obj\Debug\KFM_INCLUDED.csproj.CopyComplete
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\obj\Debug\KFM_INCLUDED.exe
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\obj\Debug\KFM_INCLUDED.pdb
+C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\bin\Debug\KFM_INCLUDED.exe.config

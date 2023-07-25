@@ -1,0 +1,49 @@
+2023-07-18 16:08:07.1335|INFO|KFM_INCLUDE.LoggerUtils|Download finished.
+2023-07-18 16:08:07.2575|INFO|KFM_INCLUDE.LoggerUtils|Retrieving the hash of - include.xml
+2023-07-18 16:08:07.2780|INFO|KFM_INCLUDE.LoggerUtils|Hash of file - include.xml - 249cd5721b9e5aa551a56790f4292742
+2023-07-18 16:08:07.3001|INFO|KFM_INCLUDE.LoggerUtils|Checking the hash in DB.
+2023-07-18 16:08:07.3477|INFO|KFM_INCLUDE.LoggerUtils|There is no file with this hash in DB..
+2023-07-18 16:08:07.3747|INFO|KFM_INCLUDE.LoggerUtils|Parsing is over. Truncating tables... 
+2023-07-18 16:08:07.4687|INFO|KFM_INCLUDE.LoggerUtils|Inserting data to database...
+2023-07-18 16:10:18.2184|INFO|KFM_INCLUDE.LoggerUtils|Download finished.
+2023-07-18 16:10:18.3548|INFO|KFM_INCLUDE.LoggerUtils|Retrieving the hash of - include.xml
+2023-07-18 16:10:18.3818|INFO|KFM_INCLUDE.LoggerUtils|Hash of file - include.xml - 249cd5721b9e5aa551a56790f4292742
+2023-07-18 16:10:18.4078|INFO|KFM_INCLUDE.LoggerUtils|Checking the hash in DB.
+2023-07-18 16:10:18.4670|INFO|KFM_INCLUDE.LoggerUtils|There is no file with this hash in DB..
+2023-07-18 16:10:18.4991|INFO|KFM_INCLUDE.LoggerUtils|Parsing is over. Truncating tables... 
+2023-07-18 16:10:18.5700|INFO|KFM_INCLUDE.LoggerUtils|Inserting data to database...
+2023-07-18 16:10:18.7756|INFO|KFM_INCLUDE.DB|Oracle.ManagedDataAccess.Client.OracleException (0x00000388): ORA-00904: "CORRECTION": недопустимый идентификатор
+   в OracleInternal.ServiceObjects.OracleCommandImpl.VerifyExecution(OracleConnectionImpl connectionImpl, Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   в OracleInternal.ServiceObjects.OracleCommandImpl.VerifyExecution(OracleConnectionImpl connectionImpl, Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, OracleException& exceptionForArrayBindDML, Boolean bFirstIterationDone)
+   в OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, Boolean isFromEF)
+   в Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   в KFM_INCLUDE.DB.Insert_KFM_INCLUDE_record_person(List`1 KFM_INCLUDE_RecordList) в C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\DB.cs:строка 220
+2023-07-18 16:10:18.7756|INFO|KFM_INCLUDE.LoggerUtils|Finished inserting data.
+2023-07-18 16:10:18.8056|INFO|KFM_INCLUDE.LoggerUtils|Writing hash of new file into DB.
+2023-07-18 16:10:18.8626|INFO|KFM_INCLUDE.LoggerUtils|Zip and Archive the parsed file...
+2023-07-18 16:10:18.9291|INFO|KFM_INCLUDE.LoggerUtils|GatherStatistics
+2023-07-18 16:10:19.1271|INFO|KFM_INCLUDE.LoggerUtils|FinalizeLoading
+2023-07-18 16:10:19.1941|INFO|KFM_INCLUDE.LoggerUtils|SendNotifications
+2023-07-18 16:10:19.2533|INFO|KFM_INCLUDE.LoggerUtils|Refresh table
+2023-07-18 16:10:19.2864|INFO|KFM_INCLUDE.LoggerUtils|Finalization
+2023-07-18 16:12:02.7946|INFO|KFM_INCLUDE.LoggerUtils|Download finished.
+2023-07-18 16:12:02.9155|INFO|KFM_INCLUDE.LoggerUtils|Retrieving the hash of - include.xml
+2023-07-18 16:12:02.9476|INFO|KFM_INCLUDE.LoggerUtils|Hash of file - include.xml - 249cd5721b9e5aa551a56790f4292742
+2023-07-18 16:12:02.9795|INFO|KFM_INCLUDE.LoggerUtils|Checking the hash in DB.
+2023-07-18 16:12:03.0548|INFO|KFM_INCLUDE.LoggerUtils|There is no file with this hash in DB..
+2023-07-18 16:12:03.1008|INFO|KFM_INCLUDE.LoggerUtils|Parsing is over. Truncating tables... 
+2023-07-18 16:12:03.1828|INFO|KFM_INCLUDE.LoggerUtils|Inserting data to database...
+2023-07-18 16:12:03.3293|INFO|KFM_INCLUDE.DB|Oracle.ManagedDataAccess.Client.OracleException (0x00000388): ORA-00904: "IIN": недопустимый идентификатор
+   в OracleInternal.ServiceObjects.OracleCommandImpl.VerifyExecution(OracleConnectionImpl connectionImpl, Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   в OracleInternal.ServiceObjects.OracleCommandImpl.VerifyExecution(OracleConnectionImpl connectionImpl, Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, OracleException& exceptionForArrayBindDML, Boolean bFirstIterationDone)
+   в OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, Boolean isFromEF)
+   в Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   в KFM_INCLUDE.DB.Insert_KFM_INCLUDE_record_person(List`1 KFM_INCLUDE_RecordList) в C:\Users\m.sabazbekov\Downloads\Telegram Desktop\KFM_LOADER_new\KFM_LOADER_new\KFM_INCLUDED\DB.cs:строка 220
+2023-07-18 16:12:03.3293|INFO|KFM_INCLUDE.LoggerUtils|Finished inserting data.
+2023-07-18 16:12:03.3633|INFO|KFM_INCLUDE.LoggerUtils|Writing hash of new file into DB.
+2023-07-18 16:12:03.4314|INFO|KFM_INCLUDE.LoggerUtils|Zip and Archive the parsed file...
+2023-07-18 16:12:03.4883|INFO|KFM_INCLUDE.LoggerUtils|GatherStatistics
+2023-07-18 16:12:03.6928|INFO|KFM_INCLUDE.LoggerUtils|FinalizeLoading
+2023-07-18 16:12:03.7758|INFO|KFM_INCLUDE.LoggerUtils|SendNotifications
+2023-07-18 16:12:03.8448|INFO|KFM_INCLUDE.LoggerUtils|Refresh table
+2023-07-18 16:12:03.9968|INFO|KFM_INCLUDE.LoggerUtils|Finalization

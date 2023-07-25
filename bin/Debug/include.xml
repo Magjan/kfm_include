@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <persons>
+    <person>
+      <num>1</num>
+      <lname>ТАШМЕТОВ</lname>
+      <fname>НУРМАХАММАТ</fname>
+      <mname>ШАДИМАТОВИЧ</mname>
+      <birthdate>12.01.1999</birthdate>
+      <iin>990112301379</iin>
+      <note></note>
+      <correction>включен от 17.07.2023</correction>
+    </person>
+  </persons>
+  <organisations></organisations>
+  <organisationscis></organisationscis>
+</xml>
